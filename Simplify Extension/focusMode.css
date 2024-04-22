@@ -1,0 +1,4 @@
+body {
+    color: green !important;
+    /* Use !important to override other styles */
+}
